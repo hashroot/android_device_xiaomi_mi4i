@@ -19,7 +19,6 @@ $(call inherit-product, device/xiaomi/ferrari/full_ferrari.mk)
 # Inherit some common LineageOS stuff.
 $(call inherit-product, vendor/aosp/common.mk)
 
-=======
 >>>>>>> 9c4f891c5eed7ea299eafb125301a826ec2413c2:aosp_ferrari.mk
 # Must define platform variant before including any common things
 TARGET_BOARD_PLATFORM_VARIANT := msm8939
