@@ -1,1 +1,2 @@
 add_lunch_combo aosp_ferrari-userdebug
+add_lunch_combo aosp_ferrari-eng
