@@ -1,4 +1,4 @@
-include device/qcom/msm8916-common/BoardConfigCommon.mk
+include device/cyanogen/msm8916-common/BoardConfigCommon.mk
 
 include device/xiaomi/ferrari/board/*.mk
 
