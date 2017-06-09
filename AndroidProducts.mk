@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_ferrari.mk
+    $(LOCAL_DIR)/nitrogen_ferrari.mk
