@@ -1,5 +1,5 @@
 # Inherit common AOSP-CAF stuff
-$(call inherit-product, vendor/aosp/common.mk)
+$(call inherit-product, vendor/nitrogen/common.mk)
 
 # Inherit device configurations
 $(call inherit-product, device/xiaomi/ferrari/full_ferrari.mk)
